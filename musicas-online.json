@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "nome": "Amor Proibido",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/amor-proibido.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "Do Mundo Virtual ao Real",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/do-mundo-virtual-ao-real.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "HERÓI EM MIM (Poeta Sonhador)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/heroi-em-mim-poeta-sonhador.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "Só Falta Te Dizer",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/so-falta-te-dizer.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "Te Quero Perto",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/te-quero-perto.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "Tela Em Teu Nome",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/tela-em-teu-nome.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "To Perdido em Voce Jefferson Silva",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/to-perdido-em-voce-jefferson-silva.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "Tô Vivo – Poeta Sonhador (1)",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/to-vivo-poeta-sonhador-1.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  },
+  {
+    "nome": "Você Floresceu",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/voce-floresceu.mp3",
+    "dataPublicacao": "2026-07-06T14:36:58.702Z",
+    "novo": true
+  }
+]
