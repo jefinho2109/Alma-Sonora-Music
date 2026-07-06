@@ -1,5 +1,12 @@
 [
   {
+    "nome": "Energia Total",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/Academia/energia-total.mp3",
+    "dataPublicacao": "2026-07-06T20:42:01.735Z",
+    "novo": true
+  },
+  {
     "nome": "Amor Proibido",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/amor-proibido.mp3",
