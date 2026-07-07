@@ -1,5 +1,26 @@
 [
   {
+    "nome": "Namora Comigo",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/namora-comigo.mp3",
+    "dataPublicacao": "2026-07-07T19:14:43.836Z",
+    "novo": true
+  },
+  {
+    "nome": "Você Mudou Meu Mundo",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/voce-mudou-meu-mundo.mp3",
+    "dataPublicacao": "2026-07-07T19:14:43.836Z",
+    "novo": true
+  },
+  {
+    "nome": "You Changed My World",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/you-changed-my-world.mp3",
+    "dataPublicacao": "2026-07-07T19:14:43.836Z",
+    "novo": true
+  },
+  {
     "nome": "BOMBA DE EMOÇÃO” – Jefferson Poeta Sonhador",
     "categoria": "pop",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/bomba-de-emocao-jefferson-poeta-sonhador.mp3",
