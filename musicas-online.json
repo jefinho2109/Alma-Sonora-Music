@@ -1,5 +1,26 @@
 [
   {
+    "nome": "Only You Cant See",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/only-you-cant-see.mp3",
+    "dataPublicacao": "2026-07-10T19:20:46.973Z",
+    "novo": true
+  },
+  {
+    "nome": "Só Você Não Vê",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/so-voce-nao-ve.mp3",
+    "dataPublicacao": "2026-07-10T19:20:46.973Z",
+    "novo": true
+  },
+  {
+    "nome": "Sorriso Maroto",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/sorriso-maroto.mp3",
+    "dataPublicacao": "2026-07-10T19:20:46.973Z",
+    "novo": true
+  },
+  {
     "nome": "Namora Comigo",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/namora-comigo.mp3",
