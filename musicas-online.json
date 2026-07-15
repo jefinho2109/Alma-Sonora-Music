@@ -1,5 +1,40 @@
 [
   {
+    "nome": "Aunque No Estés",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/aunque-no-estes.mp3",
+    "dataPublicacao": "2026-07-15T20:53:09.153Z",
+    "novo": true
+  },
+  {
+    "nome": "Fuego en el Hielo",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/fuego-en-el-hielo.mp3",
+    "dataPublicacao": "2026-07-15T20:53:09.153Z",
+    "novo": true
+  },
+  {
+    "nome": "Geleira do Medo",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/geleira-do-medo.mp3",
+    "dataPublicacao": "2026-07-15T20:53:09.153Z",
+    "novo": true
+  },
+  {
+    "nome": "Mesmo Sem Você",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/mesmo-sem-voce.mp3",
+    "dataPublicacao": "2026-07-15T20:53:09.153Z",
+    "novo": true
+  },
+  {
+    "nome": "Na Academia Não Pode Olhar",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/Academia/na-academia-nao-pode-olhar.mp3",
+    "dataPublicacao": "2026-07-15T20:53:09.153Z",
+    "novo": true
+  },
+  {
     "nome": "Only You Cant See",
     "categoria": "pop",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/only-you-cant-see.mp3",
