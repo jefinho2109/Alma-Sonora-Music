@@ -1,5 +1,26 @@
 [
   {
+    "nome": "Conquistar o Seu Olhar",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/conquistar-o-seu-olhar.mp3",
+    "dataPublicacao": "2026-07-17T18:23:26.152Z",
+    "novo": true
+  },
+  {
+    "nome": "Enquanto o Coração Bater",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/enquanto-o-coracao-bater.mp3",
+    "dataPublicacao": "2026-07-17T18:23:26.152Z",
+    "novo": true
+  },
+  {
+    "nome": "Meu Ar É Você",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/meu-ar-e-voce.mp3",
+    "dataPublicacao": "2026-07-17T18:23:26.152Z",
+    "novo": true
+  },
+  {
     "nome": "Aunque No Estés",
     "categoria": "pop",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/aunque-no-estes.mp3",
