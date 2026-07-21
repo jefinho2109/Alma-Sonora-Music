@@ -1,5 +1,26 @@
 [
   {
+    "nome": "# Hoje Eu Quero Você",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/hoje-eu-quero-voce.mp3",
+    "dataPublicacao": "2026-07-21T17:37:30.284Z",
+    "novo": true
+  },
+  {
+    "nome": "Deus Está Cuidando da Sua Alma",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/deus-esta-cuidando-da-sua-alma.mp3",
+    "dataPublicacao": "2026-07-21T17:37:30.284Z",
+    "novo": true
+  },
+  {
+    "nome": "Entre o Medo e o Desejo",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/entre-o-medo-e-o-desejo.mp3",
+    "dataPublicacao": "2026-07-21T17:37:30.284Z",
+    "novo": true
+  },
+  {
     "nome": "Conquistar o Seu Olhar",
     "categoria": "romantica",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/conquistar-o-seu-olhar.mp3",
