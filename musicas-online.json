@@ -1,5 +1,19 @@
 [
   {
+    "nome": "Amor Além do Tempo",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/amor-alem-do-tempo.mp3",
+    "dataPublicacao": "2026-07-24T18:36:58.081Z",
+    "novo": true
+  },
+  {
+    "nome": "Dame una noche más",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/dame-una-noche-mas.mp3",
+    "dataPublicacao": "2026-07-24T18:36:58.081Z",
+    "novo": true
+  },
+  {
     "nome": "Amor Proibido — Chega de Segredo",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/amor-proibido-chega-de-segredo.mp3",
