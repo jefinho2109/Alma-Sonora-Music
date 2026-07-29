@@ -1,5 +1,40 @@
 [
   {
+    "nome": "Atravessar a Tela",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/atravessar-a-tela.mp3",
+    "dataPublicacao": "2026-07-29T18:13:17.348Z",
+    "novo": true
+  },
+  {
+    "nome": "Brinquedo de Ninguém",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/brinquedo-de-ninguem.mp3",
+    "dataPublicacao": "2026-07-29T18:13:17.348Z",
+    "novo": true
+  },
+  {
+    "nome": "Coração Bandido",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/coracao-bandido.mp3",
+    "dataPublicacao": "2026-07-29T18:13:17.348Z",
+    "novo": true
+  },
+  {
+    "nome": "Quero Estar Com Você",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/quero-estar-com-voce.mp3",
+    "dataPublicacao": "2026-07-29T18:13:17.348Z",
+    "novo": true
+  },
+  {
+    "nome": "Volta",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/volta.mp3",
+    "dataPublicacao": "2026-07-29T18:13:17.348Z",
+    "novo": true
+  },
+  {
     "nome": "Amor Além do Tempo",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/amor-alem-do-tempo.mp3",
