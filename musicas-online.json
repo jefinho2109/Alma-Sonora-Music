@@ -1,5 +1,89 @@
 [
   {
+    "nome": "# Onde o Tempo Não Apaga",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/onde-o-tempo-nao-apaga.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Advogada do Meu Coração",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/advogada-do-meu-coracao.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Além dos Limites",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/Academia/alem-dos-limites.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Amor sem distância Copia",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/amor-sem-distancia-copia.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Atravessar a Tela",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/atravessar-a-tela.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Borboletas no Estômago",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/borboletas-no-estomago.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Conexão de Mil Anos",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/conexao-de-mil-anos.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Contando as Horas",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/contando-as-horas.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Meu Ar É Você",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/meu-ar-e-voce.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Nasci Pra Vencer",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/Academia/nasci-pra-vencer.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Onde Está Deus",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/onde-esta-deus.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
+    "nome": "Sem Você Aqui",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/sem-voce-aqui.mp3",
+    "dataPublicacao": "2026-08-05T19:08:52.776Z",
+    "novo": true
+  },
+  {
     "nome": "Atravessar a Tela",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/atravessar-a-tela.mp3",
