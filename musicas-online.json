@@ -1558,5 +1558,11 @@
     "categoria": "gospel",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Milagres%20de%20Deus.mp3",
     "novo": false
+  },
+  {
+    "nome": "com voce",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/com-voce.wav",
+    "novo": false
   }
 ]
