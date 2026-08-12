@@ -1,5 +1,26 @@
 [
   {
+    "nome": "# DEIXE DE MALDADE",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/deixe-de-maldade.mp3",
+    "dataPublicacao": "2026-08-12T18:52:23.634Z",
+    "novo": true
+  },
+  {
+    "nome": "Entre Telas e Corações",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/entre-telas-e-coracoes.mp3",
+    "dataPublicacao": "2026-08-12T18:52:23.634Z",
+    "novo": true
+  },
+  {
+    "nome": "Mulher Pequena",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/mulher-pequena.mp3",
+    "dataPublicacao": "2026-08-12T18:52:23.634Z",
+    "novo": true
+  },
+  {
     "nome": "# Onde o Tempo Não Apaga",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/onde-o-tempo-nao-apaga.mp3",
@@ -336,117 +357,9 @@
     "novo": true
   },
   {
-    "nome": "Every Day I Choose",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Every_Day_I_Choose.mp3",
-    "novo": false
-  },
-  {
-    "nome": "O Sol na Janela",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/O%20Sol%20na%20%20Janela.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Conexão Virtual",
+    "nome": "“Amor Sem Toque” (Jefferson Silva) (online audio converter.com)",
     "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Conex%C3%A3o%20Virtual.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Amor Virtual Real Pra Mim",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20Virtual%20Real_Pra%20Mim.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Entre Pixels e Coração",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Entre%20Pixels%20e%20Cora%C3%A7%C3%A3o.mp3",
-    "novo": false
-  },
-  {
-    "nome": "ATRÁS DA TELA",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/ATR%C3%81S%20DA%20TELA.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Conexão Virtual",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Conex%C3%A3o%20Virtual.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Tela de Amor",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Tela%20de%20Amor.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Amor pela Graça",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Amor%20pela%20Gra%C3%A7a.mp3",
-    "novo": false
-  },
-  {
-    "nome": "À Distância",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/%C3%80%20Dist%C3%A2ncia.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Conexão Digital e Amor Verdadeiro",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Conex%C3%A3o%20Digital%20e%20Amor%20Verdadeiro.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Quem Nunca Sofreu Por Amor",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Quem%20Nunca%20Sofreu%20Por%20Amor.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Código Postal",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/C%C3%B3digo%20Postal.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Engineered Framework",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Engineered_Framework.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Nascer do Sol",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Nascer%20do%20Sol.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Queime Alto",
-    "categoria": "academia",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/Queime%20Alto.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Love Anthem",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Love%20Anthem.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Love While They Can Hear You",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Love_While_They_Can_Hear_You.mp3",
-    "novo": false
-  },
-  {
-    "nome": "“Você é o que eu Preciso”",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/%E2%80%9CVoc%C3%AA%20%C3%A9%20o%20que%20eu%20Preciso%E2%80%9D.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CAmor%20Sem%20Toque%E2%80%9D%20(Jefferson%20Silva)%20(online-audio-converter.com).mp3",
     "novo": false
   },
   {
@@ -456,81 +369,39 @@
     "novo": false
   },
   {
-    "nome": "No Ritmo do Amor",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/__No%20Ritmo%20do%20Amor_.mp3",
+    "nome": "“Eclipse do Teu Amor”",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/%E2%80%9CEclipse%20do%20Teu%20Amor%E2%80%9D.mp3",
     "novo": false
   },
   {
-    "nome": "Bobo Romântico (2)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/__Bobo%20Rom%C3%A2ntico___%20(2).mp3",
+    "nome": "“Enquanto Ainda é Agora”",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CEnquanto%20Ainda%20%C3%A9%20Agora%E2%80%9D.mp3",
     "novo": false
   },
   {
-    "nome": "Você Entrou e Deixou Sua Marca",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Voc%C3%AA%20Entrou%20e%20Deixou%20Sua%20Marca_.mp3",
+    "nome": "“Escuta Minha Voz, Senhor”",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%E2%80%9CEscuta%20Minha%20Voz%2C%20Senhor%E2%80%9D.mp3",
     "novo": false
   },
   {
-    "nome": "Você Chegou Devagar",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Voc%C3%AA%20Chegou%20Devagar_.mp3",
+    "nome": "“Na Mesma Sintonia” (Jefferson Silva)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/__%E2%80%9CNa%20Mesma%20Sintonia%E2%80%9D%20(Jefferson%20Silva).mp3",
     "novo": false
   },
   {
-    "nome": "Um Por Amor (1)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Um%20Por%20Amor___%20(1).mp3",
+    "nome": "“Sorriso de Tela” 🎵",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/%E2%80%9CSorriso%20de%20Tela%E2%80%9D%20%F0%9F%8E%B5.mp3",
     "novo": false
   },
   {
-    "nome": "Te Amo, Meu Tudo",
+    "nome": "“Você é o que eu Preciso”",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Te%20Amo%2C%20Meu%20Tudo.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Se Eu Não Te Quisesse Assim",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Se%20Eu%20N%C3%A3o%20Te%20Quisesse%20Assim_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "No Mundo dos Amantes (2)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_No%20Mundo%20dos%20Amantes__%20(2).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Me Entrego em Ti",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Me%20Entrego%20em%20Ti_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Maré do Teu Amor",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Mar%C3%A9%20do%20Teu%20Amor.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Eu Vou Te Amar (1)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Eu%20Vou%20Te%20Amar___%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Eu Te Quero Demais (1)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Eu%20Te%20Quero%20Demais%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "🎶 “Saudades de Você”",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_---%F0%9F%8E%B6%20__%E2%80%9CSaudades%20de%20Voc%C3%AA%E2%80%9D.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/%E2%80%9CVoc%C3%AA%20%C3%A9%20o%20que%20eu%20Preciso%E2%80%9D.mp3",
     "novo": false
   },
   {
@@ -540,267 +411,105 @@
     "novo": false
   },
   {
-    "nome": "Voce não esta só",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Voce%20n%C3%A3o%20esta%20s%C3%B3.mp3",
+    "nome": "### 🎵 Deus Ainda Está Cuidando 🎵 (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%23%23%23%20__%F0%9F%8E%B5%20Deus%20Ainda%20Est%C3%A1%20Cuidando%20%F0%9F%8E%B5__%20(1).mp3",
     "novo": false
   },
   {
-    "nome": "Vem ser meu Amor",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Vem%20ser%20meu%20Amor.mp3",
+    "nome": "### Deus é o Meu Sustento (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%23%23%23%20Deus%20%C3%A9%20o%20Meu%20Sustento%20(1).mp3",
     "novo": false
   },
   {
-    "nome": "Vem ficar comigo",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Vem%20ficar%20comigo.mp3",
+    "nome": "🎵 Canção “Escuta Minha Voz, Senhor” 🎵",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/_%F0%9F%8E%B5%20__Can%C3%A7%C3%A3o_%20%E2%80%9CEscuta%20Minha%20Voz%2C%20Senhor%E2%80%9D__%20%F0%9F%8E%B5.mp3",
     "novo": false
   },
   {
-    "nome": "Tudo de Mim",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Tudo%20de%20Mim.mp3",
+    "nome": "🎵 Mesmo em Silêncio (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%F0%9F%8E%B5%20_Mesmo%20em%20Sil%C3%AAncio_%20(1).mp3",
     "novo": false
   },
   {
-    "nome": "Teu Olhar na Tela",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Teu%20Olhar%20na%20Tela_.mp3",
+    "nome": "🎵 Título Baixinha Mandona (Mas É Toda Minha) (1)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%F0%9F%8E%B5%20T%C3%ADtulo_%20_Baixinha%20Mandona%20(Mas%20%C3%89%20Toda%20Minha)_%20(1).mp3",
     "novo": false
   },
   {
-    "nome": "Te encontrei na Tela",
+    "nome": "🎶 “Saudades de Você”",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20encontrei%20na%20Tela.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_---%F0%9F%8E%B6%20__%E2%80%9CSaudades%20de%20Voc%C3%AA%E2%80%9D.mp3",
     "novo": false
   },
   {
-    "nome": "Te amo demais",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20amo%20demais%20.mp3",
+    "nome": "6 verdade",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/6%20verdade.mp3",
     "novo": false
   },
   {
-    "nome": "Te Sonhei Aqui",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20Sonhei%20Aqui_.mp3",
+    "nome": "À Distância",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/%C3%80%20Dist%C3%A2ncia.mp3",
     "novo": false
   },
   {
-    "nome": "Te Dou Meu Tudo",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20Dou%20Meu%20Tudo_.mp3",
+    "nome": "A Gratidão que Transforma",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/A%20gratid%C3%A3o%20que%20transforma%20.mp3",
     "novo": false
   },
   {
-    "nome": "Sem Te Ver",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Sem%20Te%20Ver__.mp3",
+    "nome": "Agradeça",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Agrade%C3%A7a.mp3",
     "novo": false
   },
   {
-    "nome": "Sem Ar no Virtual (Jefferson Silva)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Sem%20Ar%20no%20Virtual%20(Jefferson%20Silva).mp3",
+    "nome": "Ainda Estou Aqui",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ainda%20Estou%20Aqui%20.mp3",
     "novo": false
   },
   {
-    "nome": "Saudades",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Saudades.mp3",
+    "nome": "Ainda Estou de Pé",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ainda%20Estou%20de%20P%C3%A9%E2%80%9D%20%E2%80%93%20Poeta%20Sonhador.mp3",
     "novo": false
   },
   {
-    "nome": "Rubia de niterói",
+    "nome": "Além da tela",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Rubia%20de%20niter%C3%B3i.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Al%C3%A9m%20da%20tela.mp3",
     "novo": false
   },
   {
-    "nome": "Rei do Meu Coração",
+    "nome": "Almas que já se conhecem",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Rei%20do%20Meu%20Cora%C3%A7%C3%A3o.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Almas%20que%20j%C3%A1%20se%20conhecem.mp3",
     "novo": false
   },
   {
-    "nome": "Queria que fosse verdade",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Queria%20que%20fosse%20verdade%20.mp3",
+    "nome": "Almas que Já se conhecem",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Almas%20que%20j%C3%A1%20se%20conhecem.mp3",
     "novo": false
   },
   {
-    "nome": "Promessas de amizade (1)",
+    "nome": "Ama-me Como o Céu Azul",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Promessas%20de%20amizade%20%20(1).mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Ama-me%20Como%20o%20C%C3%A9u%20Azul_.mp3",
     "novo": false
   },
   {
-    "nome": "Promessa da Minha Vida",
+    "nome": "Amizade colorida",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Promessa%20da%20Minha%20Vida.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Porque Você Me Amo",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Porque%20Voc%C3%AA%20Me%20Amo.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Poesia Favorita",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Poesia%20Favorita.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Não deixe pra amanhã",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/N%C3%A3o%20deixe%20pra%20amanh%C3%A3%20.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Não Sei Ficar Sem Você",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/N%C3%A3o%20Sei%20Ficar%20Sem%20Voc%C3%AA_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Nos Teus Olhos”",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Nos%20Teus%20Olhos%E2%80%9D_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "No Ritmo do Coração",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/No%20Ritmo%20do%20Cora%C3%A7%C3%A3o.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Mesmo de Longe",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Mesmo%20de%20Longe_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Mesmo Atrás da Tela",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Mesmo%20Atr%C3%A1s%20da%20Tela.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Mesmo Assim (2)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Mesmo%20Assim%20(2).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Louco por Você”",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Louco%20por%20Voc%C3%AA%E2%80%9D__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Hoy Te Quiero",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Hoy%20Te%20Quiero.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Hoje te quero",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Hoje%20te%20quero.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Eu Queria Você Aqui (2)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Eu%20Queria%20Voc%C3%AA%20Aqui%20(2).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Era Só Amizade (1)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Era%20S%C3%B3%20Amizade_%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Entre Telas e Corações(Jefferson Silva)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Entre%20Telas%20e%20Cora%C3%A7%C3%B5es(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Do Outro Lado da Tela",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Do%20Outro%20Lado%20da%20Tela.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Devagar você chegou (1)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Devagar%20voc%C3%AA%20chegou%20%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deixa de Maldade",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Deixa%20de%20Maldade.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deixa Eu Te Mostrar",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Deixa%20Eu%20Te%20Mostrar.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deixa Eu Te Amar",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Deixa%20Eu%20Te%20Amar__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Conexão real",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Conex%C3%A3o%20real%20.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Conexão Proibida (1)",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Conex%C3%A3o%20Proibida%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Como Se Já Fosse Amor",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Como%20Se%20J%C3%A1%20Fosse%20Amor_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Antes de Te Tocar",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Antes%20de%20Te%20Tocar_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Amor virtual 1",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20virtual%201.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Amor sem distância",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20sem%20dist%C3%A2ncia.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Amor profundo",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20profundo%20.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amizade%20colorida.mp3",
     "novo": false
   },
   {
@@ -816,87 +525,33 @@
     "novo": false
   },
   {
-    "nome": "Amizade colorida",
+    "nome": "Amor pela Graça",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Amor%20pela%20Gra%C3%A7a.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Amor profundo",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amizade%20colorida.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20profundo%20.mp3",
     "novo": false
   },
   {
-    "nome": "Além da tela",
+    "nome": "Amor sem distância",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Al%C3%A9m%20da%20tela.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20sem%20dist%C3%A2ncia.mp3",
     "novo": false
   },
   {
-    "nome": "Iron Fire",
-    "categoria": "academia",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/Iron_Fire_.mp3",
+    "nome": "Amor virtual 1",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20virtual%201.mp3",
     "novo": false
   },
   {
-    "nome": "Sem Sinal",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Sem%20Sinal.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Hora Errada",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Hora%20Errada.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Fogo na Veia FULL SONG MusicGPT",
-    "categoria": "academia",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/Fogo_na_Veia_FULL_SONG_MusicGPT.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Quem Nunca Sofreu Por Amor",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Quem%20Nunca%20Sofreu%20Por%20Amor.mp3",
-    "novo": false
-  },
-  {
-    "nome": "O Sol na Janela",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/O_Sol_na_Janela.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Gratido no Momento FULL SONG MusicGPT",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Gratido_no_Momento_FULL_SONG_MusicGPT.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Só Pela Graça”",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/S%C3%B3%20Pela%20Gra%C3%A7a%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "“Eclipse do Teu Amor”",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/%E2%80%9CEclipse%20do%20Teu%20Amor%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Tô Vivo – Poeta Sonhador",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/T%C3%B4%20Vivo%20%E2%80%93%20Poeta%20Sonhador.mp3",
-    "novo": false
-  },
-  {
-    "nome": "“Sorriso de Tela” 🎵",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/%E2%80%9CSorriso%20de%20Tela%E2%80%9D%20%F0%9F%8E%B5.mp3",
-    "novo": false
-  },
-  {
-    "nome": "“Amor Sem Toque” (Jefferson Silva) (online audio converter.com)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CAmor%20Sem%20Toque%E2%80%9D%20(Jefferson%20Silva)%20(online-audio-converter.com).mp3",
+    "nome": "Amor Virtual Real Pra Mim",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Amor%20Virtual%20Real_Pra%20Mim.mp3",
     "novo": false
   },
   {
@@ -906,57 +561,9 @@
     "novo": false
   },
   {
-    "nome": "Você é o motivo do meu mais sincero sorr",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Voc%C3%AA%20%C3%A9%20o%20motivo%20do%20meu%20mais%20sincero%20sorr.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Quando Nosso Santo Se Encontrou(Poeta Sonhador)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Quando%20Nosso%20Santo%20Se%20Encontrou(Poeta%20Sonhador).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Explode o Coração”",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Explode%20o%20Cora%C3%A7%C3%A3o%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Promessa de amizade versao nova (Jefferson Silva)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Promessa%20de%20amizade%20versao%20nova%20(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Entre Linhas e Silêncios”",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Entre%20Linhas%20e%20Sil%C3%AAncios%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "CORAÃÃO SEM DIREÃÃO",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/CORA%C3%83%C3%83O%20SEM%20DIRE%C3%83%C3%83O.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Desejo Entre Telas (Jefferson Silva)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Desejo%20Entre%20Telas%20(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Conexo Virtual FULL SONG MusicGPT",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Conexo_Virtual_FULL_SONG_MusicGPT.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Online Demais Pra Ser Só Amor",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Online%20Demais%20Pra%20Ser%20S%C3%B3%20Amor.mp3",
+    "nome": "Antes de Te Tocar",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Antes%20de%20Te%20Tocar_.mp3",
     "novo": false
   },
   {
@@ -966,153 +573,9 @@
     "novo": false
   },
   {
-    "nome": "Atenção galera, vem comigo dançar",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Aten%C3%A7%C3%A3o%20galera%2C%20vem%20comigo%20dan%C3%A7ar.mp3",
-    "novo": false
-  },
-  {
-    "nome": "🎵 Título Baixinha Mandona (Mas É Toda Minha) (1)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%F0%9F%8E%B5%20T%C3%ADtulo_%20_Baixinha%20Mandona%20(Mas%20%C3%89%20Toda%20Minha)_%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "🎵 Canção “Escuta Minha Voz, Senhor” 🎵",
+    "nome": "Asas pra Recomeçar",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/_%F0%9F%8E%B5%20__Can%C3%A7%C3%A3o_%20%E2%80%9CEscuta%20Minha%20Voz%2C%20Senhor%E2%80%9D__%20%F0%9F%8E%B5.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Força para Vencer",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/For%C3%A7a%20para%20Vencer.mp3",
-    "novo": false
-  },
-  {
-    "nome": "O melhor esta por vir (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/O%20melhor%20esta%20por%20vir%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "### 🎵 Deus Ainda Está Cuidando 🎵 (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%23%23%23%20__%F0%9F%8E%B5%20Deus%20Ainda%20Est%C3%A1%20Cuidando%20%F0%9F%8E%B5__%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Milagres de Deus (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/_Milagres%20de%20Deus%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Preparado para Vencer",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Preparado%20para%20Vencer.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deus Está Te Ensinando (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Est%C3%A1%20Te%20Ensinando%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "### Deus é o Meu Sustento (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%23%23%23%20Deus%20%C3%A9%20o%20Meu%20Sustento%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "FOI DEUS QUE ME ERGUEU (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/FOI%20DEUS%20QUE%20ME%20ERGUEU__%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Nas mãos de Deus (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Nas%20m%C3%A3os%20de%20Deus%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Por Quê, Senhor",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Por%20Qu%C3%AA%2C%20Senhor.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Milagres Vêm",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Milagres%20V%C3%AAm.mp3",
-    "novo": false
-  },
-  {
-    "nome": "6 verdade",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/6%20verdade.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Escolhida por Deus”",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Escolhida%20por%20Deus%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "🎵 Mesmo em Silêncio (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%F0%9F%8E%B5%20_Mesmo%20em%20Sil%C3%AAncio_%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Ele Está Te Moldando (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ele%20Est%C3%A1%20Te%20Moldando%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Não Me Quebrou (1)",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/N%C3%A3o%20Me%20Quebrou%20(1).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Silêncio do Outro Lado",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Sil%C3%AAncio%20do%20Outro%20Lado%E2%80%9D(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Sem Nunca Te Tocar",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Sem%20Nunca%20Te%20Tocar.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Proibido Mas Real",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/PROIBIDO%2C%20MAS%20REAL%20(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Match Perfeito",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Match%20Perfeito.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deixa Acontecer",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Deixa%20Acontecer.mp3",
-    "novo": false
-  },
-  {
-    "nome": "De Volta Ao Amor",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/De%20Volta%20ao%20Amor.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Asas%20pra%20Recome%C3%A7ar___.mp3",
     "novo": false
   },
   {
@@ -1122,69 +585,21 @@
     "novo": false
   },
   {
-    "nome": "Já Era Você",
+    "nome": "Atenção galera, vem comigo dançar",
     "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CJ%C3%A1%20Era%20Voc%C3%AA%E2%80%9D.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Aten%C3%A7%C3%A3o%20galera%2C%20vem%20comigo%20dan%C3%A7ar.mp3",
     "novo": false
   },
   {
-    "nome": "Entre Letras e Tela",
+    "nome": "ATRÁS DA TELA",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/ATR%C3%81S%20DA%20TELA.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Baixinha Mandona (Mas É Toda Minha",
     "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CEntre%20Letras%20e%20Tela%E2%80%9D%20(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Enquanto Ainda é Agora",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%E2%80%9CEnquanto%20Ainda%20%C3%A9%20Agora%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Na Mesma Sintonia",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/__%E2%80%9CNa%20Mesma%20Sintonia%E2%80%9D%20(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "Pensando em Nós",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%23%20%F0%9F%8E%B6%20__%E2%80%9CPensando%20em%20N%C3%B3s%20(Poeta%20Sonhador)%E2%80%9D__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Do Primeiro OLÁ Ao Primeiro Som",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Do%20Primeiro%20Ol%C3%A1%20ao%20Primeiro%20Som.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deus Vai Fazer",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Vai%20Fazer.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Te Vi Em Sonhos",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/%E2%80%9CTe%20Vi%20em%20Sonhos%E2%80%9D__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Te Encontrar Em Mim",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Te%20Encontrar%20em%20Mim.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Entre Nós Dois",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Entre%20N%C3%B3s%20Dois__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Ama-me Como o Céu Azul",
-    "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Ama-me%20Como%20o%20C%C3%A9u%20Azul_.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Baixinha%20Mandona%20(Mas%20%C3%89%20Toda%20Minha.mp3",
     "novo": false
   },
   {
@@ -1194,147 +609,9 @@
     "novo": false
   },
   {
-    "nome": "Ainda Estou de Pé",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ainda%20Estou%20de%20P%C3%A9%E2%80%9D%20%E2%80%93%20Poeta%20Sonhador.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Do Vale Ao Milagre",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%F0%9F%8E%B5%20Do%20Vale%20ao%20Milagre.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Você Só Sabe Pedir",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Voc%C3%AA%20S%C3%B3%20Sabe%20Pedir.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Você é Precioso Pra Deus",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Voc%C3%AA%20%C3%A9%20Precioso%20pra%20Deus_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Um Novo Amanhecer",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Um%20Novo%20Amanhecer%E2%80%9D__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Socorre-me Senhor",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Socorre-me%20Senhor.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Quando Me Calo",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Quando%20Me%20Calo.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Ouve o Meu Clamor",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ouve%20o%20Meu%20Clamor.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Outro Diluvio",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Outro%20Diluvio.mp3",
-    "novo": false
-  },
-  {
-    "nome": "O Que Você Faz Pelo Seu Irmão",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/O%20Que%20Voc%C3%AA%20Faz%20Pelo%20Seu%20Irm%C3%A3o_%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Nunca Te Deixa Só",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Nunca%20Te%20Deixa%20S%C3%B3__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "No Silêncio Ele Me Guia",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/No%20Sil%C3%AAncio%20Ele%20Me%20Guia_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Morrerei Lutando",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Morrerei%20Lutando.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Luz da Minha Vida",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Luz%20da%20Minha%20Vida.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Levanta-Te",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Levanta-te.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Guerreiro Exausto",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Guerreiro_Exausto_FULL_SONG_MusicGPT.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Guerreiro de Deus",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Guerreiro%20de%20DEUS.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Foi a Mão De Deus",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Foi%20a%20M%C3%A3o%20de%20Deus%E2%80%9D__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Enquanto eu Respirar",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Enquanto%20Eu%20Respirar_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Enquanto Ainda da Tempo",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Enquanto%20Ainda%20D%C3%A1%20Tempo_.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deus Esta Com Você",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Est%C3%A1%20Com%20Voc%C3%AA.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Depois Do Processo",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Depois%20do%20Processo%E2%80%9D__.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deixa Deus Agir",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deixa%20Deus%20Agir.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Conversa Com Deus",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Conversa%20com%20DEUS.mp3",
+    "nome": "Bobo Romântico (2)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/__Bobo%20Rom%C3%A2ntico___%20(2).mp3",
     "novo": false
   },
   {
@@ -1344,21 +621,465 @@
     "novo": false
   },
   {
-    "nome": "Ainda Estou Aqui",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ainda%20Estou%20Aqui%20.mp3",
+    "nome": "Código Postal",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/C%C3%B3digo%20Postal.mp3",
     "novo": false
   },
   {
-    "nome": "A Gratidão que Transforma",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/A%20gratid%C3%A3o%20que%20transforma%20.mp3",
+    "nome": "com voce",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/com-voce.wav",
     "novo": false
   },
   {
-    "nome": "Vou Lutar pra Viver",
+    "nome": "Como Se Já Fosse Amor",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Como%20Se%20J%C3%A1%20Fosse%20Amor_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Conexão Digital e Amor Verdadeiro",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Conex%C3%A3o%20Digital%20e%20Amor%20Verdadeiro.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Conexão Proibida (1)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Conex%C3%A3o%20Proibida%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Conexão real",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Conex%C3%A3o%20real%20.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Conexão Virtual",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Conex%C3%A3o%20Virtual.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Conexão Virtual",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Conex%C3%A3o%20Virtual.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Conexo Virtual FULL SONG MusicGPT",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Conexo_Virtual_FULL_SONG_MusicGPT.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Conversa Com Deus",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%E2%80%9CVou%20Lutar%20pra%20Viver%E2%80%9D.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Conversa%20com%20DEUS.mp3",
+    "novo": false
+  },
+  {
+    "nome": "CORAÃÃO SEM DIREÃÃO",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/CORA%C3%83%C3%83O%20SEM%20DIRE%C3%83%C3%83O.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Coração que diz Sim",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Cora%C3%A7%C3%A3o%20que%20Diz%20Sim.mp3",
+    "novo": false
+  },
+  {
+    "nome": "CORAÇÃO SEM DIREÇÃO",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/CORA%C3%87%C3%83O%20SEM%20DIRE%C3%87%C3%83O.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Dança do Sol Quente",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CDan%C3%A7a%20do%20Sol%20Quente%E2%80%9D__%20%F0%9F%8E%B5.mp3",
+    "novo": false
+  },
+  {
+    "nome": "De Volta Ao Amor",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/De%20Volta%20ao%20Amor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deixa Acontecer",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Deixa%20Acontecer.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deixa de Maldade",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Deixa%20de%20Maldade.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deixa Deus Agir",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deixa%20Deus%20Agir.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deixa Eu Te Amar",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Deixa%20Eu%20Te%20Amar__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deixa Eu Te Mostrar",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Deixa%20Eu%20Te%20Mostrar.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Depois Do Processo",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Depois%20do%20Processo%E2%80%9D__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Depois do Processo” (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Depois%20do%20Processo%E2%80%9D__%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Desejo Entre Telas (Jefferson Silva)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Desejo%20Entre%20Telas%20(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Detrás de la Pantalla",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/___Detr%C3%A1s%20de%20la%20Pantalla__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deus Ainda Está Cuidando",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Ainda%20Est%C3%A1%20Cuidando.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deus Esta Com Você",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Est%C3%A1%20Com%20Voc%C3%AA.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deus Está Te Ensinando (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Est%C3%A1%20Te%20Ensinando%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deus Vai Fazer",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Vai%20Fazer.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Deus Vai me Sustentar",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Vai%20Me%20Sustentar.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Devagar você chegou (1)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Devagar%20voc%C3%AA%20chegou%20%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Do Outro Lado da Tela",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Do%20Outro%20Lado%20da%20Tela.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Do Primeiro OLÁ Ao Primeiro Som",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Do%20Primeiro%20Ol%C3%A1%20ao%20Primeiro%20Som.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Do Vale Ao Milagre",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%F0%9F%8E%B5%20Do%20Vale%20ao%20Milagre.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Ele Está Te Moldando (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ele%20Est%C3%A1%20Te%20Moldando%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Engineered Framework",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Engineered_Framework.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Enquanto Ainda da Tempo",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Enquanto%20Ainda%20D%C3%A1%20Tempo_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Enquanto Ainda é Agora",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%E2%80%9CEnquanto%20Ainda%20%C3%A9%20Agora%E2%80%9D.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Enquanto eu Respirar",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Enquanto%20Eu%20Respirar_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Entre Letras e Tela",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CEntre%20Letras%20e%20Tela%E2%80%9D%20(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Entre Linhas e Silêncios”",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Entre%20Linhas%20e%20Sil%C3%AAncios%E2%80%9D.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Entre Nós Dois",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Entre%20N%C3%B3s%20Dois__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Entre Pixels e Coração",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Entre%20Pixels%20e%20Cora%C3%A7%C3%A3o.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Entre Telas e Corações(Jefferson Silva)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Entre%20Telas%20e%20Cora%C3%A7%C3%B5es(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Era Só Amizade (1)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Era%20S%C3%B3%20Amizade_%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Escolhida por Deus”",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Escolhida%20por%20Deus%E2%80%9D.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Esquecido no Primeiro Deslize",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Esquecido%20no%20Primeiro%20Deslize.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Estou Chegando",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Estou%20Chegando.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Eu Queria Você Aqui (2)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Eu%20Queria%20Voc%C3%AA%20Aqui%20(2).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Eu Te Quero Demais (1)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Eu%20Te%20Quero%20Demais%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Eu Vou Te Amar (1)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Eu%20Vou%20Te%20Amar___%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Every Day I Choose",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Every_Day_I_Choose.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Explode o Coração”",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Explode%20o%20Cora%C3%A7%C3%A3o%E2%80%9D.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Fogo na Veia FULL SONG MusicGPT",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/Fogo_na_Veia_FULL_SONG_MusicGPT.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Foi a Mão De Deus",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Foi%20a%20M%C3%A3o%20de%20Deus%E2%80%9D__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "FOI DEUS QUE ME ERGUEU (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/FOI%20DEUS%20QUE%20ME%20ERGUEU__%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Força para Vencer",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/For%C3%A7a%20para%20Vencer.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Gratido no Momento FULL SONG MusicGPT",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Gratido_no_Momento_FULL_SONG_MusicGPT.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Guerreiro de Deus",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Guerreiro%20de%20DEUS.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Guerreiro Exausto",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Guerreiro_Exausto_FULL_SONG_MusicGPT.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Hoje te quero",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Hoje%20te%20quero.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Hora Errada",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Hora%20Errada.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Hoy Te Quiero",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Hoy%20Te%20Quiero.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Invisivel Não Sou",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Invis%C3%ADvel%20N%C3%A3o%20Sou.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Iron Fire",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/Iron_Fire_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Já Era Você",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CJ%C3%A1%20Era%20Voc%C3%AA%E2%80%9D.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Levanta-Te",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Levanta-te.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Louco por Você”",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Louco%20por%20Voc%C3%AA%E2%80%9D__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Love Anthem",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Love%20Anthem.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Love While They Can Hear You",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Love_While_They_Can_Hear_You.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Luz da Minha Vida",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Luz%20da%20Minha%20Vida.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Maré do Teu Amor",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Mar%C3%A9%20do%20Teu%20Amor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Match Perfeito",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Match%20Perfeito.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Me Conta Deus",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Me%20Conta%2C%20Deus.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Me Entrego em Ti",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Me%20Entrego%20em%20Ti_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Mesmo Assim (2)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Mesmo%20Assim%20(2).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Mesmo Atrás da Tela",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Mesmo%20Atr%C3%A1s%20da%20Tela.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Mesmo de Longe",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Mesmo%20de%20Longe_.mp3",
     "novo": false
   },
   {
@@ -1374,99 +1095,57 @@
     "novo": false
   },
   {
-    "nome": "Me Conta Deus",
+    "nome": "Milagres de Deus",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Me%20Conta%2C%20Deus.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Milagres%20de%20Deus.mp3",
     "novo": false
   },
   {
-    "nome": "Invisivel Não Sou",
+    "nome": "Milagres de Deus (1)",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Invis%C3%ADvel%20N%C3%A3o%20Sou.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/_Milagres%20de%20Deus%20(1).mp3",
     "novo": false
   },
   {
-    "nome": "Estou Chegando",
+    "nome": "Milagres Vêm",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Estou%20Chegando.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Milagres%20V%C3%AAm.mp3",
     "novo": false
   },
   {
-    "nome": "Esquecido no Primeiro Deslize",
+    "nome": "Morrerei Lutando",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Esquecido%20no%20Primeiro%20Deslize.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Morrerei%20Lutando.mp3",
     "novo": false
   },
   {
-    "nome": "Agradeça",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Agrade%C3%A7a.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Coração que diz Sim",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Cora%C3%A7%C3%A3o%20que%20Diz%20Sim.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Deus Vai me Sustentar",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Vai%20Me%20Sustentar.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Almas que Já se conhecem",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Almas%20que%20j%C3%A1%20se%20conhecem.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Dança do Sol Quente",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CDan%C3%A7a%20do%20Sol%20Quente%E2%80%9D__%20%F0%9F%8E%B5.mp3",
-    "novo": false
-  },
-  {
-    "nome": "CORAÇÃO SEM DIREÇÃO",
+    "nome": "Na Mesma Sintonia",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/CORA%C3%87%C3%83O%20SEM%20DIRE%C3%87%C3%83O.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/__%E2%80%9CNa%20Mesma%20Sintonia%E2%80%9D%20(Jefferson%20Silva).mp3",
     "novo": false
   },
   {
-    "nome": "Perfeita Sem Te Tocarâ",
-    "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Perfeita%20Sem%20Te%20Tocar%C3%A2.mp3",
-    "novo": false
-  },
-  {
-    "nome": "“Na Mesma Sintonia” (Jefferson Silva)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/__%E2%80%9CNa%20Mesma%20Sintonia%E2%80%9D%20(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "“Enquanto Ainda é Agora”",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%E2%80%9CEnquanto%20Ainda%20%C3%A9%20Agora%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Sem Ar no Virtual (Jefferson Silva)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Sem%20Ar%20no%20Virtual%20(Jefferson%20Silva).mp3",
-    "novo": false
-  },
-  {
-    "nome": "PROIBIDO, MAS REAL (Jefferson Silva)",
+    "nome": "Não deixe pra amanhã",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/PROIBIDO%2C%20MAS%20REAL%20(Jefferson%20Silva).mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/N%C3%A3o%20deixe%20pra%20amanh%C3%A3%20.mp3",
     "novo": false
   },
   {
-    "nome": "Silêncio do Outro Lado”(Jefferson Silva)",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Sil%C3%AAncio%20do%20Outro%20Lado%E2%80%9D(Jefferson%20Silva).mp3",
+    "nome": "Não Me Quebrou",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/N%C3%A3o%20Me%20Quebrou.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Não Me Quebrou (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/N%C3%A3o%20Me%20Quebrou%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Não Sei Ficar Sem Você",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/N%C3%A3o%20Sei%20Ficar%20Sem%20Voc%C3%AA_.mp3",
     "novo": false
   },
   {
@@ -1476,39 +1155,375 @@
     "novo": false
   },
   {
-    "nome": "Depois do Processo” (1)",
+    "nome": "Nas mãos de Deus (1)",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Depois%20do%20Processo%E2%80%9D__%20(1).mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Nas%20m%C3%A3os%20de%20Deus%20(1).mp3",
     "novo": false
   },
   {
-    "nome": "“Escuta Minha Voz, Senhor”",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%E2%80%9CEscuta%20Minha%20Voz%2C%20Senhor%E2%80%9D.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Asas pra Recomeçar",
-    "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Asas%20pra%20Recome%C3%A7ar___.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Detrás de la Pantalla",
+    "nome": "Nascer do Sol",
     "categoria": "pop",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/___Detr%C3%A1s%20de%20la%20Pantalla__.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Nascer%20do%20Sol.mp3",
     "novo": false
   },
   {
-    "nome": "Almas que já se conhecem",
+    "nome": "No Mundo dos Amantes (2)",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Almas%20que%20j%C3%A1%20se%20conhecem.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_No%20Mundo%20dos%20Amantes__%20(2).mp3",
+    "novo": false
+  },
+  {
+    "nome": "No Ritmo do Amor",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/__No%20Ritmo%20do%20Amor_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "No Ritmo do Coração",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/No%20Ritmo%20do%20Cora%C3%A7%C3%A3o.mp3",
+    "novo": false
+  },
+  {
+    "nome": "No Silêncio Ele Me Guia",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/No%20Sil%C3%AAncio%20Ele%20Me%20Guia_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Nos Teus Olhos”",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Nos%20Teus%20Olhos%E2%80%9D_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Nunca Te Deixa Só",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Nunca%20Te%20Deixa%20S%C3%B3__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "O melhor esta por vir (1)",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/O%20melhor%20esta%20por%20vir%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "O Que Você Faz Pelo Seu Irmão",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/O%20Que%20Voc%C3%AA%20Faz%20Pelo%20Seu%20Irm%C3%A3o_%E2%80%9D.mp3",
+    "novo": false
+  },
+  {
+    "nome": "O Sol na Janela",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/O%20Sol%20na%20%20Janela.mp3",
+    "novo": false
+  },
+  {
+    "nome": "O Sol na Janela",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/O_Sol_na_Janela.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Online Demais Pra Ser Só Amor",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Online%20Demais%20Pra%20Ser%20S%C3%B3%20Amor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Outro Diluvio",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Outro%20Diluvio.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Ouve o Meu Clamor",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Ouve%20o%20Meu%20Clamor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Pensando em Nós",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/%23%20%F0%9F%8E%B6%20__%E2%80%9CPensando%20em%20N%C3%B3s%20(Poeta%20Sonhador)%E2%80%9D__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Perfeita Sem Te Tocarâ",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Perfeita%20Sem%20Te%20Tocar%C3%A2.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Poesia Favorita",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Poesia%20Favorita.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Por Quê, Senhor",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Por%20Qu%C3%AA%2C%20Senhor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Porque Você Me Amo",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Porque%20Voc%C3%AA%20Me%20Amo.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Preparado para Vencer",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Preparado%20para%20Vencer.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Proibido Mas Real",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/PROIBIDO%2C%20MAS%20REAL%20(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "PROIBIDO, MAS REAL (Jefferson Silva)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/PROIBIDO%2C%20MAS%20REAL%20(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Promessa da Minha Vida",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Promessa%20da%20Minha%20Vida.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Promessa de amizade versao nova (Jefferson Silva)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Promessa%20de%20amizade%20versao%20nova%20(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Promessas de amizade (1)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Promessas%20de%20amizade%20%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Quando Me Calo",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Quando%20Me%20Calo.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Quando Nosso Santo Se Encontrou(Poeta Sonhador)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Quando%20Nosso%20Santo%20Se%20Encontrou(Poeta%20Sonhador).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Queime Alto",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/Queime%20Alto.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Quem Nunca Sofreu Por Amor",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Quem%20Nunca%20Sofreu%20Por%20Amor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Quem Nunca Sofreu Por Amor",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Quem%20Nunca%20Sofreu%20Por%20Amor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Queria que fosse verdade",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Queria%20que%20fosse%20verdade%20.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Rei do Meu Coração",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Rei%20do%20Meu%20Cora%C3%A7%C3%A3o.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Rubia de niterói",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Rubia%20de%20niter%C3%B3i.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Saudades",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Saudades.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Se Eu Não Te Quisesse Assim",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Se%20Eu%20N%C3%A3o%20Te%20Quisesse%20Assim_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Sem Ar no Virtual (Jefferson Silva)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Sem%20Ar%20no%20Virtual%20(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Sem Ar no Virtual (Jefferson Silva)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Sem%20Ar%20no%20Virtual%20(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Sem Nunca Te Tocar",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Sem%20Nunca%20Te%20Tocar.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Sem Sinal",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/Sem%20Sinal.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Sem Te Ver",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Sem%20Te%20Ver__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Silêncio do Outro Lado",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Sil%C3%AAncio%20do%20Outro%20Lado%E2%80%9D(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Silêncio do Outro Lado”(Jefferson Silva)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Sil%C3%AAncio%20do%20Outro%20Lado%E2%80%9D(Jefferson%20Silva).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Só Pela Graça”",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/S%C3%B3%20Pela%20Gra%C3%A7a%E2%80%9D.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Socorre-me Senhor",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Socorre-me%20Senhor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te amo demais",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20amo%20demais%20.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te Amo, Meu Tudo",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Te%20Amo%2C%20Meu%20Tudo.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te Dou Meu Tudo",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20Dou%20Meu%20Tudo_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te Encontrar Em Mim",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Te%20Encontrar%20em%20Mim.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te encontrei na Tela",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20encontrei%20na%20Tela.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te Sonhei Aqui",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20Sonhei%20Aqui_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te Vi Em Sonhos",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/%E2%80%9CTe%20Vi%20em%20Sonhos%E2%80%9D__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Te Vi no Virtual",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20Vi%20no%20Virtual_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Tela de Amor",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Tela%20de%20Amor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Teu Olhar na Tela",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Teu%20Olhar%20na%20Tela_.mp3",
     "novo": false
   },
   {
     "nome": "Teu Olhar na Tela",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Teu%20Olhar%20na%20Tela_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Tô Vivo – Poeta Sonhador",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/T%C3%B4%20Vivo%20%E2%80%93%20Poeta%20Sonhador.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Tudo de Mim",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Tudo%20de%20Mim.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Tudo de Mim",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Tudo%20de%20Mim.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Um Novo Amanhecer",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Um%20Novo%20Amanhecer%E2%80%9D__.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Um Por Amor (1)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Um%20Por%20Amor___%20(1).mp3",
+    "novo": false
+  },
+  {
+    "nome": "Vem ficar comigo",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Vem%20ficar%20comigo.mp3",
     "novo": false
   },
   {
@@ -1519,50 +1534,56 @@
   },
   {
     "nome": "Vem ser meu Amor",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Vem%20ser%20meu%20Amor.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Vem ser meu Amor",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Vem%20ser%20meu%20Amor.mp3",
     "novo": false
   },
   {
-    "nome": "Te Vi no Virtual",
+    "nome": "Você Chegou Devagar",
     "categoria": "romantica",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Te%20Vi%20no%20Virtual_.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Voc%C3%AA%20Chegou%20Devagar_.mp3",
     "novo": false
   },
   {
-    "nome": "Baixinha Mandona (Mas É Toda Minha",
+    "nome": "Você é o motivo do meu mais sincero sorr",
     "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Baixinha%20Mandona%20(Mas%20%C3%89%20Toda%20Minha.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Voc%C3%AA%20%C3%A9%20o%20motivo%20do%20meu%20mais%20sincero%20sorr.mp3",
     "novo": false
   },
   {
-    "nome": "Deus Ainda Está Cuidando",
+    "nome": "Você é Precioso Pra Deus",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Deus%20Ainda%20Est%C3%A1%20Cuidando.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Voc%C3%AA%20%C3%A9%20Precioso%20pra%20Deus_.mp3",
     "novo": false
   },
   {
-    "nome": "Não Me Quebrou",
+    "nome": "Você Entrou e Deixou Sua Marca",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/_Voc%C3%AA%20Entrou%20e%20Deixou%20Sua%20Marca_.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Voce não esta só",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/Voce%20n%C3%A3o%20esta%20s%C3%B3.mp3",
+    "novo": false
+  },
+  {
+    "nome": "Você Só Sabe Pedir",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/N%C3%A3o%20Me%20Quebrou.mp3",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Voc%C3%AA%20S%C3%B3%20Sabe%20Pedir.mp3",
     "novo": false
   },
   {
-    "nome": "Tudo de Mim",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/Tudo%20de%20Mim.mp3",
-    "novo": false
-  },
-  {
-    "nome": "Milagres de Deus",
+    "nome": "Vou Lutar pra Viver",
     "categoria": "gospel",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/Milagres%20de%20Deus.mp3",
-    "novo": false
-  },
-  {
-    "nome": "com voce",
-    "categoria": "sertanejo",
-    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/com-voce.wav",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/%E2%80%9CVou%20Lutar%20pra%20Viver%E2%80%9D.mp3",
     "novo": false
   }
 ]
