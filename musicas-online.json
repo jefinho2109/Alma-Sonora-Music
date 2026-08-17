@@ -1,5 +1,19 @@
 [
   {
+    "nome": "INTEIRO EM VOCÊ",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/inteiro-em-voce.mp3",
+    "dataPublicacao": "2026-08-17T18:52:48.653Z",
+    "novo": true
+  },
+  {
+    "nome": "Se Eu Tivesse Intimidade (1)",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/se-eu-tivesse-intimidade-1.mp3",
+    "dataPublicacao": "2026-08-17T18:52:48.653Z",
+    "novo": true
+  },
+  {
     "nome": "# DEIXE DE MALDADE",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/deixe-de-maldade.mp3",
