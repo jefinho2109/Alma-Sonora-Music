@@ -1,5 +1,26 @@
 [
   {
+    "nome": "Só Falta Te Encontrar”",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/so-falta-te-encontrar.mp3",
+    "dataPublicacao": "2026-08-27T12:56:37.009Z",
+    "novo": true
+  },
+  {
+    "nome": "Sussurro de Pele (Jefferson Silva)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/sussurro-de-pele-jefferson-silva.mp3",
+    "dataPublicacao": "2026-08-27T12:56:37.009Z",
+    "novo": true
+  },
+  {
+    "nome": "Entre a Tela e o Abraço",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/entre-a-tela-e-o-abraco.mp3",
+    "dataPublicacao": "2026-08-27T12:56:37.009Z",
+    "novo": true
+  },
+  {
     "nome": "INTEIRO EM VOCÊ",
     "categoria": "romantica",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/inteiro-em-voce.mp3",
