@@ -1,5 +1,47 @@
 [
   {
+    "nome": "Enquanto o Coração Bater",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/enquanto-o-coracao-bater.mp3",
+    "dataPublicacao": "2026-09-04T19:54:53.535Z",
+    "novo": true
+  },
+  {
+    "nome": "Conquistar o Seu Olhar",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/conquistar-o-seu-olhar.mp3",
+    "dataPublicacao": "2026-09-04T19:54:53.535Z",
+    "novo": true
+  },
+  {
+    "nome": "Essência de Anos",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/essencia-de-anos.wav",
+    "dataPublicacao": "2026-09-04T19:54:53.535Z",
+    "novo": true
+  },
+  {
+    "nome": "Conexão Divina (Jefferson Silva)",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/conexao-divina-jefferson-silva.mp3",
+    "dataPublicacao": "2026-09-04T19:54:53.535Z",
+    "novo": true
+  },
+  {
+    "nome": "Sou eu sem você (1)",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/sou-eu-sem-voce-1.mp3",
+    "dataPublicacao": "2026-09-04T19:54:53.535Z",
+    "novo": true
+  },
+  {
+    "nome": "Quando Deus Me Levantar",
+    "categoria": "gospel",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/gospel/quando-deus-me-levantar.mp3",
+    "dataPublicacao": "2026-09-04T19:54:53.535Z",
+    "novo": true
+  },
+  {
     "nome": "Só Falta Te Encontrar”",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/so-falta-te-encontrar.mp3",
