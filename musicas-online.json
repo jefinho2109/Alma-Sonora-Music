@@ -1,5 +1,19 @@
 [
   {
+    "nome": "QUANDO O AMOR DECIDE FICAR",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/quando-o-amor-decide-ficar.mp3",
+    "dataPublicacao": "2026-09-27T14:39:11.373Z",
+    "novo": true
+  },
+  {
+    "nome": "MIL MILHAS DE VOCÊ Poeta Sonhador",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/mil-milhas-de-voce-poeta-sonhador.mp3",
+    "dataPublicacao": "2026-09-27T14:39:11.373Z",
+    "novo": true
+  },
+  {
     "nome": "Quando a Distância Vira Desejo",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/quando-a-distancia-vira-desejo.mp3",
