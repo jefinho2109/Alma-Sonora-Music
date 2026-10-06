@@ -1,5 +1,12 @@
 [
   {
+    "nome": "ESSE OLHAR ME PEGOU",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/esse-olhar-me-pegou.mp3",
+    "dataPublicacao": "2026-10-06T19:56:27.181Z",
+    "novo": true
+  },
+  {
     "nome": "QUANDO O AMOR DECIDE FICAR",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/quando-o-amor-decide-ficar.mp3",
