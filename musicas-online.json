@@ -1,5 +1,75 @@
 [
   {
+    "nome": "SOU SEU AMIGO, MAS TE QUERO",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/sou-seu-amigo-mas-te-quero.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "QUANDO A VIDA NOS REENCONTRAR",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/quando-a-vida-nos-reencontrar.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "Não Quero Saber do Seu Passado",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/nao-quero-saber-do-seu-passado.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "MEU CORAÇÃO TE ESCOLHEU",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/meu-coracao-te-escolheu.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "AH, COMO EU QUERIA",
+    "categoria": "sertanejo",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/ah-como-eu-queria.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "O AMOR ME TROUXE DE VOLTA",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/o-amor-me-trouxe-de-volta.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "MEU VÍCIO, MINHA MAGIA",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/meu-vicio-minha-magia.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "Bem Mais Que Querer",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/bem-mais-que-querer.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "Sem Rumo",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/sem-rumo.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
+    "nome": "Ela Ainda Mora em Mim",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/ela-ainda-mora-em-mim.mp3",
+    "dataPublicacao": "2026-10-28T19:31:32.222Z",
+    "novo": true
+  },
+  {
     "nome": "ESSE OLHAR ME PEGOU",
     "categoria": "sertanejo",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/sertanejo/esse-olhar-me-pegou.mp3",
