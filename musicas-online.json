@@ -1,5 +1,12 @@
 [
   {
+    "nome": "Nem Uma Foto",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/nem-uma-foto.mp3",
+    "dataPublicacao": "2026-10-29T18:49:27.405Z",
+    "novo": true
+  },
+  {
     "nome": "Desafie o Impossível",
     "categoria": "academia",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/desafie-o-impossivel.mp3",
