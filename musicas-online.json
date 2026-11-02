@@ -1,5 +1,12 @@
 [
   {
+    "nome": "DEIXA ESSE MEDO DE LADO",
+    "categoria": "pop",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/deixa-esse-medo-de-lado.mp3",
+    "dataPublicacao": "2026-11-02T13:58:54.119Z",
+    "novo": true
+  },
+  {
     "nome": "FOI VOCÊ QUEM ME ENSINOU A VOAR",
     "categoria": "romantica",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/foi-voce-quem-me-ensinou-a-voar.mp3",
