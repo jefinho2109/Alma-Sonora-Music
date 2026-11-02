@@ -1,5 +1,19 @@
 [
   {
+    "nome": "FOI VOCÊ QUEM ME ENSINOU A VOAR",
+    "categoria": "romantica",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/romantica/foi-voce-quem-me-ensinou-a-voar.mp3",
+    "dataPublicacao": "2026-11-02T13:53:51.759Z",
+    "novo": true
+  },
+  {
+    "nome": "BORA, CORAÇÃO!",
+    "categoria": "academia",
+    "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/academia/bora-coracao.mp3",
+    "dataPublicacao": "2026-11-02T13:53:51.759Z",
+    "novo": true
+  },
+  {
     "nome": "Nem Uma Foto",
     "categoria": "pop",
     "audioUrl": "https://raw.githubusercontent.com/jefinho2109/Alma-Sonora-Music/main/musicas/pop/nem-uma-foto.mp3",
